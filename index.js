@@ -1,8 +1,8 @@
 var http = require('https'),
+    config = require('config'),
     mongo = require('mongodb'),
     monk = require('monk'),
-    db = monk(config.mongostr),
-    config = require('config');
+    db = monk(config.mongostr);
 
 var data = '', response = [];
 
