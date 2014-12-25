@@ -1,0 +1,12 @@
+module.exports = {
+    mongostr: 'localhost:27017/huestatus',
+
+    notifications: {
+        '00:17:88:01:00:e4:a1:9d-0c': true, // living room
+        '00:17:88:01:00:e4:a1:53-0c': true  // bedroom kid
+    },
+
+    pushbulletToken: 'xxx',
+
+    hueToken: 'xxx'
+};

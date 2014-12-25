@@ -1,0 +1,16 @@
+{
+  "name": "marissa-hue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mongo": "^0.1.0",
+    "mongodb": "^1.4.26",
+    "monk": "^0.9.1"
+  }
+}
