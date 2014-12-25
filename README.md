@@ -1,0 +1,1 @@
+Little tinker project to let me know when my kid turns on her light when she is supposed to be asleep. Written in NodeJS, uses MongoDB.
